@@ -1,0 +1,1 @@
+[{"name":"My shopping list","ownerId":"1","members":[],"items":[],"archived":false,"id":"5aa7854c6789b6789"},{"name":"My shopping list 2","ownerId":"2","members":[],"items":[],"archived":true,"id":"9qu2364r0956u4567"}]
